@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/create-react-app-test-1/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/create-react-app-test-1/static/js/main.5606c3a8.chunk.js",
+    "main.js.map": "/create-react-app-test-1/static/js/main.5606c3a8.chunk.js.map",
+    "runtime-main.js": "/create-react-app-test-1/static/js/runtime-main.3198e506.js",
+    "runtime-main.js.map": "/create-react-app-test-1/static/js/runtime-main.3198e506.js.map",
+    "static/js/2.646b2f43.chunk.js": "/create-react-app-test-1/static/js/2.646b2f43.chunk.js",
+    "static/js/2.646b2f43.chunk.js.map": "/create-react-app-test-1/static/js/2.646b2f43.chunk.js.map",
+    "static/js/3.1921198a.chunk.js": "/create-react-app-test-1/static/js/3.1921198a.chunk.js",
+    "static/js/3.1921198a.chunk.js.map": "/create-react-app-test-1/static/js/3.1921198a.chunk.js.map",
+    "index.html": "/create-react-app-test-1/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/create-react-app-test-1/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.646b2f43.chunk.js.LICENSE.txt": "/create-react-app-test-1/static/js/2.646b2f43.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/create-react-app-test-1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3198e506.js",
+    "static/js/2.646b2f43.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5606c3a8.chunk.js"
+  ]
+}
